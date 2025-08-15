@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005D&center=true&vCenter=true&width=700&lines=Hey+I'm+R.C.S.D+Fernando+%7C+Rathuwa+😎;Student+at+Java+Institute+And+Adavance+Technology+Sri+Lanka+🎓;Robotics+and+Web+Development+Enthusiast+🤖💻;Always+Learning+and+Building+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005D&center=true&vCenter=true&width=700&lines=Hey+I'm+R.C.S.D+Fernando+%7C+Rathuwa+😎;Student+at+Java+Institute+Sri+Lanka+🎓;Robotics+and+Web+Development+Enthusiast+🤖💻;Always+Learning+and+Building+💡" alt="Typing SVG" />
 </p>
 
 ---
