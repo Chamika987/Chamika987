@@ -86,6 +86,7 @@
 
 ## 🎵 Now Playing on Spotify
 <p align="center">
+  <!-- Replace with your Novatorem instance if you set it up -->
   <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </p>
 
