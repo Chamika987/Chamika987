@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🚀%20Welcome%20to%20Rathuwa's%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🚀%20Welcome%20to%20Rathuwa's%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling&cacheBust=1" />
 </p>
 
 <!-- Typing Effect -->
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chamika987&label=Profile%20views&color=ff69b4&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Chamika987&label=Profile%20views&color=ff69b4&style=flat&cacheBust=1" alt="views" />
   <img src="https://img.shields.io/github/followers/Chamika987?label=Followers&style=social&cacheBust=1" alt="followers" />
 </p>
 
@@ -47,40 +47,39 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chamika987&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamika987&theme=radical&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chamika987&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cacheBust=1" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamika987&theme=radical&cacheBust=1" height="165" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chamika987&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chamika987&theme=radical&cacheBust=1" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chamika987&theme=radical&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chamika987&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&cacheBust=1" />
 </p>
 
 ---
 
 ## 💡 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cacheBust=1" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
 
 ## 🌍 Visitor Map
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Chamika987&repo=Chamika987&countColor=%237B1FA2" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Chamika987&repo=Chamika987&countColor=%237B1FA2&cacheBust=1" />
 </p>
 
 ---
@@ -107,5 +106,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&cacheBust=1" />
 </p>
