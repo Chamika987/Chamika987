@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005D&center=true&vCenter=true&width=700&lines=Hey!+I'm+Chamika+Shehan+(R.C.S.D+Fernando)+😎;Student+at+Java+Institute+Sri+Lanka+🎓;Robotics+%26+Web+Development+Enthusiast+🤖💻;Always+Learning+%26+Building+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005D&center=true&vCenter=true&width=700&lines=Hey!+I'm+R.C.S.D+Fernando+😎;Student+at+Java+Institute+Sri+Lanka+🎓;Robotics+%26+Web+Development+Enthusiast+🤖💻;Always+Learning+%26+Building+💡" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎯 **Name:** Chamika Shehan *(R.C.S.D Fernando)*  
+- 🎯 **Name:** R.C.S.D Fernando  
 - 🏫 **Student at:** Java Institute for Advanced Technology, Sri Lanka  
 - 📚 **Currently Learning:** Object-Oriented Programming Concepts (**OOPC**)  
 - 💡 **Interests:** Robotics 🤖 & Web Development 🌐  
