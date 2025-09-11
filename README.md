@@ -13,7 +13,7 @@
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chamika987&label=Profile%20views&color=ff69b4&style=flat&cacheBust=1" alt="views" />
-  <img src="https://img.shields.io/github/followers/Chamika987?label=Followers&style=social&cacheBust=1" alt="followers" />
+  <img src="https://img.shields.io/github/followers/Chamika987&label=Followers&style=social&cacheBust=1" alt="followers" />
 </p>
 
 ---
