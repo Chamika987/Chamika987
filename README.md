@@ -1,15 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🚀%20Welcome%20to%20Rathuwa's%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling&cacheBust=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🚀%20Welcome%20to%20Chamika's%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling&cacheBust=1" />
 </p>
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005D&center=true&vCenter=true&width=700&lines=Hey!+I'm+R.C.S.D+Fernando+%7C+Rathuwa+😎;Student+at+Java+Institute+Sri+Lanka+🎓;Robotics+%26+Web+Development+Enthusiast+🤖💻;Always+Learning+%26+Building+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005D&center=true&vCenter=true&width=700&lines=Hey!+I'm+R.C.S.D+Fernando+😎;Student+at+Java+Institute+Sri+Lanka+🎓;Robotics+%26+Web+Development+Enthusiast+🤖💻;Always+Learning+%26+Building+💡" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chamika987&label=Profile%20views&color=ff69b4&style=flat&cacheBust=1" alt="views" />
   <img src="https://img.shields.io/github/followers/Chamika987?label=Followers&style=social&cacheBust=1" alt="followers" />
@@ -18,7 +19,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎯 **Name:** R.C.S.D Fernando *(Rathuwa)*
+- 🎯 **Name:** R.C.S.D Fernando  
 - 🏫 **Student at:** Java Institute for Advanced Technology, Sri Lanka  
 - 📚 **Currently Learning:** Object-Oriented Programming Concepts (**OOPC**)  
 - 💡 **Interests:** Robotics 🤖 & Web Development 🌐  
